@@ -1,0 +1,16 @@
+C:\Users\Farshad\Desktop\BuildingPainter\bin\Debug\net5.0\BuildingPainter.exe
+C:\Users\Farshad\Desktop\BuildingPainter\bin\Debug\net5.0\BuildingPainter.deps.json
+C:\Users\Farshad\Desktop\BuildingPainter\bin\Debug\net5.0\BuildingPainter.runtimeconfig.json
+C:\Users\Farshad\Desktop\BuildingPainter\bin\Debug\net5.0\BuildingPainter.runtimeconfig.dev.json
+C:\Users\Farshad\Desktop\BuildingPainter\bin\Debug\net5.0\BuildingPainter.dll
+C:\Users\Farshad\Desktop\BuildingPainter\bin\Debug\net5.0\ref\BuildingPainter.dll
+C:\Users\Farshad\Desktop\BuildingPainter\bin\Debug\net5.0\BuildingPainter.pdb
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\BuildingPainter.csproj.AssemblyReference.cache
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\BuildingPainter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\BuildingPainter.AssemblyInfoInputs.cache
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\BuildingPainter.AssemblyInfo.cs
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\BuildingPainter.csproj.CoreCompileInputs.cache
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\BuildingPainter.dll
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\ref\BuildingPainter.dll
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\BuildingPainter.pdb
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\BuildingPainter.genruntimeconfig.cache

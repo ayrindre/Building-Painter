@@ -1,0 +1,32 @@
+C:\Users\Farshad\Desktop\C#-samples\Tamrin Home\7.1\bin\Debug\net5.0\7.1.exe
+C:\Users\Farshad\Desktop\C#-samples\Tamrin Home\7.1\bin\Debug\net5.0\7.1.deps.json
+C:\Users\Farshad\Desktop\C#-samples\Tamrin Home\7.1\bin\Debug\net5.0\7.1.runtimeconfig.json
+C:\Users\Farshad\Desktop\C#-samples\Tamrin Home\7.1\bin\Debug\net5.0\7.1.runtimeconfig.dev.json
+C:\Users\Farshad\Desktop\C#-samples\Tamrin Home\7.1\bin\Debug\net5.0\7.1.dll
+C:\Users\Farshad\Desktop\C#-samples\Tamrin Home\7.1\bin\Debug\net5.0\ref\7.1.dll
+C:\Users\Farshad\Desktop\C#-samples\Tamrin Home\7.1\bin\Debug\net5.0\7.1.pdb
+C:\Users\Farshad\Desktop\C#-samples\Tamrin Home\7.1\obj\Debug\net5.0\7.1.csproj.AssemblyReference.cache
+C:\Users\Farshad\Desktop\C#-samples\Tamrin Home\7.1\obj\Debug\net5.0\7.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farshad\Desktop\C#-samples\Tamrin Home\7.1\obj\Debug\net5.0\7.1.AssemblyInfoInputs.cache
+C:\Users\Farshad\Desktop\C#-samples\Tamrin Home\7.1\obj\Debug\net5.0\7.1.AssemblyInfo.cs
+C:\Users\Farshad\Desktop\C#-samples\Tamrin Home\7.1\obj\Debug\net5.0\7.1.csproj.CoreCompileInputs.cache
+C:\Users\Farshad\Desktop\C#-samples\Tamrin Home\7.1\obj\Debug\net5.0\7.1.dll
+C:\Users\Farshad\Desktop\C#-samples\Tamrin Home\7.1\obj\Debug\net5.0\ref\7.1.dll
+C:\Users\Farshad\Desktop\C#-samples\Tamrin Home\7.1\obj\Debug\net5.0\7.1.pdb
+C:\Users\Farshad\Desktop\C#-samples\Tamrin Home\7.1\obj\Debug\net5.0\7.1.genruntimeconfig.cache
+C:\Users\Farshad\Desktop\BuildingPainter\bin\Debug\net5.0\7.1.exe
+C:\Users\Farshad\Desktop\BuildingPainter\bin\Debug\net5.0\7.1.deps.json
+C:\Users\Farshad\Desktop\BuildingPainter\bin\Debug\net5.0\7.1.runtimeconfig.json
+C:\Users\Farshad\Desktop\BuildingPainter\bin\Debug\net5.0\7.1.runtimeconfig.dev.json
+C:\Users\Farshad\Desktop\BuildingPainter\bin\Debug\net5.0\7.1.dll
+C:\Users\Farshad\Desktop\BuildingPainter\bin\Debug\net5.0\ref\7.1.dll
+C:\Users\Farshad\Desktop\BuildingPainter\bin\Debug\net5.0\7.1.pdb
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\7.1.csproj.AssemblyReference.cache
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\7.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\7.1.AssemblyInfoInputs.cache
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\7.1.AssemblyInfo.cs
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\7.1.csproj.CoreCompileInputs.cache
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\7.1.dll
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\ref\7.1.dll
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\7.1.pdb
+C:\Users\Farshad\Desktop\BuildingPainter\obj\Debug\net5.0\7.1.genruntimeconfig.cache
